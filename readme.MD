@@ -16,7 +16,18 @@ The goal of this project is to provide a solution for augmenting images with add
 - pyglfw
 
 ## Usage
-
+- git clone this repository：
+```
+git clone https://github.com/CatxFish/Add_Light.git
+```
+- install dependency
+```
+ip install -r requirements.txt
+```
+- Run
+```
+python app.py
+```
 ## Remark
 - If you can't run PyOpenGL on Windows, please check [this](https://stackoverflow.com/questions/65699670/pyopengl-opengl-error-nullfunctionerror-attempt-to-call-an-undefined-functio/65699812#65699812)
 
